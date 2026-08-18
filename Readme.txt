@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Cristian Heredia Duran
 
 Template Name: Selecao
 Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
